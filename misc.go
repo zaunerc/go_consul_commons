@@ -3,7 +3,7 @@ package go_consul_commons
 
 import (
 	"fmt"
-	"github.com/hashicorp/zaunerc/api"
+	"github.com/zaunerc/consul/api"
 	"sync"
 )
 
